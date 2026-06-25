@@ -1,7 +1,5 @@
 # 09-JS-D.O.M
 
-# 08-JS-Jogo-da-Forca
-
 ## Nome: Gustavo Henrique Oliveira Pestana
 
 ## Tema do Jogo
