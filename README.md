@@ -23,6 +23,9 @@
 ## O meu diferencial na implementação do jogo
 
 
+## Minhas Decisões
+
+
 ## Reflexão
 
 
