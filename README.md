@@ -4,20 +4,26 @@
 
 ## Tema do Jogo
 
+
 ## Mecânica escolhida
+
 
 ## Briefing do cliente (público-alvo escolhido)
 
+
 ## Regras do Jogo
+
 
 ## Como Jogar
 
-## Como executar
 
-### Reflexão
+## Como executar
 
 
 ## O meu diferencial na implementação do jogo
+
+
+## Reflexão
 
 
 ## Créditos
