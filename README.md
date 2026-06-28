@@ -35,9 +35,7 @@ Por ser um jogo que é executado no navegador não é preciso baixar nenhum prog
 
 https://catchthehunter.netlify.app/
 
-Agora caso deseje jogar de forma local, realizar modificações ou utilizar o projeto para desenvolvimento, basta fazer uma clone do repositório abaixo.
-
-https://github.com/Ghopuser45/09-JS-D.O.M
+Agora caso deseje jogar de forma local, realizar modificações ou utilizar o projeto para desenvolvimento, basta fazer um clone do repositório 
 
 ## O meu diferencial na implementação do jogo
 
