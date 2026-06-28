@@ -8,7 +8,7 @@ O tema do jogo se baseia no anime Hunter x Hunter, utilizando os personagens pri
 
 ## Mecânica escolhida
 
-O jogo se baseia na mecânica do Acerte a Toupeira, onde os alvos aparecem em buracos aleatórios por pouco tempo e deve-se clicar neles antes que sumam. No entanto, eu decidi adaptar essa mecânica para a temática de Hunter x Hunter, um anime que eu gosto bastante. No lugar da toupeira será utilizado os personagens principais.
+O jogo se baseia na mecânica do Acerte a Toupeira, onde os alvos aparecem em buracos aleatórios por pouco tempo e deve-se clicar neles antes que sumam. No entanto, eu decidi adaptar essa mecânica para a temática de Hunter x Hunter, um anime que eu gosto bastante. No lugar da toupeira será utilizado os personagens principais do anime.
 
 ## Briefing do cliente (público-alvo escolhido)
 
