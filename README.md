@@ -66,11 +66,11 @@ Ao todo foram utilizadas 5 cores.
 
 Já com relação aos elementos, foram utilizados imagens em png de cinco personagens do anime Hunter x Hunter para o jogo:
 
--Gon
--Killua
--Kurapika
--Leorio
--Hisoka
+- Gon
+- Killua
+- Kurapika
+- Leorio
+- Hisoka
 
 E também tem uma imagem adicional que se refere ao ícone da página.
 
@@ -99,8 +99,8 @@ A dificuldade ocorre pela velocidade de aparecimento dos personagens e pela pres
 
 O jogo termina quando:
 
--O tempo chega a zero; ou
--O jogador perde todas as vidas.
+- O tempo chega a zero; ou
+- O jogador perde todas as vidas.
 
 ## Reflexão
 
