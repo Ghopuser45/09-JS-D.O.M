@@ -1,0 +1,62 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1f1f1f;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #00ff88;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input{
+    padding: 10px;
+    font-size: 16px;
+    width: 90%;
+    max-width: 300px;
+}
+
+#tabuleiro{
+    width: 95%;
+    max-width: 450px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+}
+
+.casa{
+    aspect-ratio: 1 / 1;
+    background-color: #333;
+    border: 2px solid #00ff88;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.casa img{
+    width: 80%;
+    height: 80%;
+    object-fit: contain;
+    pointer-events: none;
+}
+
+.casa:hover{
+    background-color: #444;
+}
+
+#info{
+    margin-top: 15px;
+    font-size: 20px;
+}
